@@ -1,2 +1,2 @@
 # test2
-creating a repository to try it out
+My name is Thomas and I am studying to become a Java programmer
